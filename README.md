@@ -3,8 +3,10 @@ Group members
 
 Name: George Tueritjama
 Student number:217139655
+
 Name:Jona Shikongo 
 Student number:220069840
+
 Name:Daniel Isethe
 Student number:220071004
 
