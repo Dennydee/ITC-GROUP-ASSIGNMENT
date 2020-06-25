@@ -1,4 +1,13 @@
 # ITC-GROUP-ASSIGNMENT
+Group members
+
+Name: George Tueritjama
+Student number:217139655
+Name:Jona Shikongo 
+Student number:220069840
+Name:Daniel Isethe
+Student number:220071004
+
 This Assignment we are assigned to create a system that represent does all the functions that’s a
 retail supermarket.
 Here are a few things/modules that we are going to be our focused on
