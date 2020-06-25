@@ -5,7 +5,7 @@ Name: George Tueritjama
 
 Student number:217139655
 
-Name:Jona Shikongo
+Name:Jona Shikonga
 
 Student number:220069840
 
