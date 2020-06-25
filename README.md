@@ -30,3 +30,28 @@ alert if there is a certain product that needs to be ordered for re-stock meanin
 happens in the Transaction Module it may and may not affect the this module as well.
 
 FUNCTIONS
+
+EMPLOYEE MODULE Functions
+
+Job grade-
+
+Employment status
+
+Salary
+
+Weekly salary
+
+SALES Module Functions
+The product details is a sub-module under sales so under product details there are function and they are item number, product description, product quantity, product price and product sales tax. First you scan the product to get item nomber and item once the the item number scanned it will show the product description and once the product description is given then the system count the quantity of product that are being bought and after that the system is able to give the product price and sale tax amount..
+
+Selling
+
+Selling is also a sub-module under sales which deal with selling of product. The product is being scanned and product description is being given and the quantity, price, and sales tax amount, in this selling product we have function of calculating total amount, you will receive product prices and quantities and sales tax amount and total amount will be executed as product prices plus sales tax multiply by product quantitys.
+
+Recieve payment
+
+ The other sub-module is receive payment were there are functions of calculating change, they system will display the total amount of the product being bought and the customer have to pay for the either cash or swaping with credit card, once the the customer handed the cash to the employee and the amount of cash is greater than total amount then the employee will deduct the total amount from cash and give back the customer change, if customer give the credit card the system will deduct the total amount from the credit card balance then the employee give back the customer credit card.
+
+
+
+
