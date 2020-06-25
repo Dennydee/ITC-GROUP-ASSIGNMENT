@@ -47,15 +47,16 @@ FUNCTIONS
 
 EMPLOYEE MODULE Functions
 
-Job grade-
+Job grade-This function is a systematic method of assigning values or duties to the specific group of employees and their rates of earnings according to the job grade group and it is the sub-module of Qualifications in Employee module.
 
-Employment status
+Employment status-This function falls under Job info module and it determines if an employee is currently on contract or permanently employed.
 
-Salary
+Salary-This function keeps track and calclates the employees monthly or weekly salary according to the working hours of an employee, and it is a sub-module of Qalifications. 
 
-Weekly salary
+Weekly salary-The weekly salary function calculates specifically the weeekly earnings of employees and also calculates overtime worked by the employees and it is also a sub-module of Qualification module.
 
 SALES Module Functions
+
 The product details is a sub-module under sales so under product details there are function and they are item number, product description, product quantity, product price and product sales tax. First you scan the product to get item nomber and item once the the item number scanned it will show the product description and once the product description is given then the system count the quantity of product that are being bought and after that the system is able to give the product price and sale tax amount..
 
 Selling
